@@ -19,7 +19,7 @@ export default function App() {
           target="_blank"
           rel="noreferrer"
         >
-          GitHub
+          GitHub{" "}
         </a>
         and Hosted on{" "}
         <a
